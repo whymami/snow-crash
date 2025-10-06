@@ -1,0 +1,1 @@
+wireshark ----> password yazan yere gel sonraki her tcp bağlarısınadn bir harfi al ----> noktalar ascii olmayan değerler ft_wandr...NDRel.L0L. -------> burda en nokta kadar değerleri siliyoruz en sonraki hariç çünkü o entere karşılık geliyor ----> şifre bu çıkıyor -----> ft_waNDReL0L
