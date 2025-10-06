@@ -1,1 +1,0 @@
-find / -user flag00 2>/dev/null ---> /usr/sbin/john /rofs/usr/sbin/john -----> cat /usr/sbin/john ----> cdiiddwpgswtgt ----> https://www.dcode.fr/caesar-cipher -----> ceaser(11) ----> nottoohardhere ----> su flag00 ----> passwod nottoohardhere ----> getflag ---> Check flag.Here is your token : x24ti5gi3x0ol2eh4esiuxias
